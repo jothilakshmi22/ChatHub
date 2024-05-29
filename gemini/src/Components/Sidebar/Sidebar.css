@@ -17,7 +17,7 @@
   cursor: pointer;
 }
 .sidebar .new-chat {
-  margin-top: 50px;
+  margin-top: 30px;
   display: inline-flex;
   align-items: center;
   gap: 10px;
@@ -37,7 +37,7 @@
 }
 
 .sidebar .recent-title {
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
